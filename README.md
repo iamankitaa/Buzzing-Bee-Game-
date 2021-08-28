@@ -1,5 +1,6 @@
 #  Buzzing-Bee-Game
 
+![Game](https://user-images.githubusercontent.com/52229554/131226657-61695724-1b16-4a3a-bbc8-48bdb2f13b7e.png)
 
 
 In this Mini Project, we have created a game “Buzzing Bee”. In which a user controls a bee’s flight height to avoid carnivorous plant called Venus Flytrap, who traps & eats all the insects. Here, this Flytrap plant works as a obstacle for bee.
